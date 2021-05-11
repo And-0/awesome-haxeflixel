@@ -10,8 +10,8 @@ HaxeFlixel is an open source, cross-platform game framework powered by Haxe, Lim
 
 ## Contents
 * [Tutorials](#tutorials)
-* [Books](#games)
-* [Snippets and Demos](#articles)
+* [Books](#books)
+* [Snippets and Demos](#snippets-and-demos)
 * [Libraries](#libraries)
 * [Tools](#tools)
 * [Community and Pages](#community-and-pages)
