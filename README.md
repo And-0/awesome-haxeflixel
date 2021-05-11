@@ -27,7 +27,7 @@ HaxeFlixel is an open source, cross-platform game framework powered by Haxe, Lim
 * [Ohsat Tutorials](https://www.ohsat.com/tutorial/) - Various beginner and intermediate tutorials
 * [Tutorials by Kino Creates](https://kinocreates.io/category/tutorials/) - Bite-sized tutorials on various topics
 * [CastleDB Integration](https://gist.github.com/awreese/69bdfb99d88c0a680c370e16304aef87) - How to integrate CastleDB with HaxeFlixel
-* [An in depth guide on setting up HaxeFlixel](https://mig-moog.newgrounds.com/news/post/1157692) -How to set up HaxeFlixel
+* [An in depth guide on setting up HaxeFlixel](https://mig-moog.newgrounds.com/news/post/1157692) - How to set up HaxeFlixel
 * [Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - A useful overview of basic functionality
 * [GameFromScratch Tutorial](https://gamefromscratch.com/haxe-and-haxeflixel-tutorial-series/) - An introductory tutorial
 * [Pixel-Perfect Outline Shader](https://gist.github.com/AustinEast/d3892fdf6a6079366fffde071f0c2bae) - How to create a pixel-perfect outline using shaders
