@@ -57,6 +57,7 @@ HaxeFlixel is an open source, cross-platform game framework powered by Haxe, Lim
 
 ## Tools
 
+* [CastleDB](http://castledb.org) - A structured static database
 * [Tiled](https://www.mapeditor.org) - A free and open-source level editor
 * [Shoebox](https://renderhjs.net/shoebox/) - A free app featuring tools to process sprites and graphics
 * [FreeTexturePacker](http://free-tex-packer.com) - A free and open-source texture packer
