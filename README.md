@@ -47,6 +47,7 @@ HaxeFlixel is an open source, cross-platform game framework powered by Haxe, Lim
 * [Game Mechanic Explorer](http://gme.qr9.de) - A collection of concrete examples for various game mechanics, algorithms, and effects.
 * [Snippets](https://snippets.haxeflixel.com) - A useful collection of code snippets showing off various HaxeFlixel features
 * [Pixel-Perfect rendering](https://github.com/AustinEast/haxeflixel-pixel-perfect) - How to achieve "pixel perfect" rendering with Haxeflixel
+* [Harpwood Prototypes](https://harpwood.itch.io) - Prototypes for various genres done with HaxeFlixel
 
 ## Libraries
 
