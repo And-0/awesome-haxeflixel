@@ -56,6 +56,7 @@ HaxeFlixel is an open source, cross-platform game framework powered by Haxe, Lim
 * [Zerolib-Flixel](https://github.com/01010111/zerolib-flixel) - A library of extensions, utilities, and other helpful classes for making games quickly in HaxeFlixel
 * [Flixel Studio](https://github.com/Dovyski/flixel-studio) - An embeddable, in-game editor
 * [HaxeUI](http://haxeui.org/getting-started/haxeui-flixel/) - UI library with a HaxeFlixel backend
+* [FlxRes](https://harpwood.itch.io/flxres) - A simple resolution handler
 
 ## Tools
 
