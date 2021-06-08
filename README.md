@@ -37,6 +37,8 @@ HaxeFlixel is an open source, cross-platform game framework powered by Haxe, Lim
 
 * [Video Tutorials by Christopher Butler](https://www.youtube.com/watch?v=LpKvSPwHOP8&list=PLi0ypjD5PcV9xdjycW0hYi_HD297012tE) - Setting up HaxeFlixel and prototyping a platformer
 * [Video Tutorials by Richard Oliver Bray](https://www.youtube.com/playlist?list=PLiKs97d-BatFGPrkf7yNN0e6IyToRaaYO) - Tutorials on various beginner topics
+* [Video Tutorials by Questionable Programming](https://www.youtube.com/watch?v=c9N-KBVRHFM) - Introduction to HaxeFlixel
+* [Video Tutorials by Gamefromscratch](https://www.youtube.com/watch?v=Ydh4N22WcBI) - Haxe and HaxeFlixel Tutorial Series
 
 ## Books
 * [Discover HaxeFlixel](https://discover-haxeflixel.com) - Learn how to create a platformer-style arcade game
@@ -70,7 +72,8 @@ HaxeFlixel is an open source, cross-platform game framework powered by Haxe, Lim
 ## Community and Pages
 
 * [Discord Server](https://discordapp.com/invite/rqEBAgF)
-* [Official Forum](http://forum.haxeflixel.com/)
+* [Official Forum](https://github.com/HaxeFlixel/flixel/discussions)
+* [Legacy Forum](http://forum.haxeflixel.com/)
 * [Stackoverflow Tag](https://stackoverflow.com/questions/tagged/haxeflixel)
 * [Twitter](https://twitter.com/HaxeFlixel)
 * [GitHub](https://github.com/haxeflixel)
